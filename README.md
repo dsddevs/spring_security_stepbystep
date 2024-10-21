@@ -1,4 +1,4 @@
-<h1 style="color: #55c53c; font-size: 35px;">
+<h1 style="color: #55c53c; font-size: 25px;">
   <img src="assets/icons/ss.png" width="35" height="35" style="margin-top: 25px"> SPRING SECURITY PROJECTS
 </h1>
 
