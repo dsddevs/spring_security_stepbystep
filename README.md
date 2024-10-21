@@ -9,7 +9,7 @@ This project demonstrates various approaches to building Spring Security configu
 The repository contains multiple examples of Spring Security implementations, progressively increasing in complexity. Each implementation showcases different security configurations, authentication methods, and architectural approaches.
 
 ## Project Structure 
-
+```
 src/
 ├── main/
 │   ├── java/
@@ -19,4 +19,5 @@ src/
 │   │       └── advanced/    # Advanced security patterns
 │   └── resources/
 └── test/
+```
 
