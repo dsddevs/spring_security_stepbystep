@@ -1,5 +1,5 @@
 <h1 style="color: #55c53c; font-size: 35px;">
-  <img src="assets/icons/ss.png" width="42" height="42" style="vertical-align: middle; margin-top: 5px">
+  <img src="assets/icons/ss.png" width="42" height="42" style="vertical-align: middle; align-content: center">
   SPRING SECURITY PROJECTS
 </h1>
 
