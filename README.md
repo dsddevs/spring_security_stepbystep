@@ -105,8 +105,6 @@ The repository contains multiple examples of Spring Security implementations, pr
   </a>
 </div>
 
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile views">
 </div>
