@@ -10,14 +10,10 @@ The repository contains multiple examples of Spring Security implementations, pr
 
 ## Project Structure 
 ```
-src/
-├── main/
 │   ├── java/
-│   │   └── com/example/security/
+│   │   └── dsd/spring-security
 │   │       ├── basic/       # Basic security configurations
 │   │       ├── intermediate/ # Intermediate level implementations
 │   │       └── advanced/    # Advanced security patterns
-│   └── resources/
-└── test/
 ```
 
