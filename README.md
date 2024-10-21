@@ -1,4 +1,4 @@
-<img src="[assets/icons/book.png](https://velog.velcdn.com/images/letsdev/post/44b40f1f-4d13-46ea-8ca7-e98541c13a9a/image.png)" width="20" height="20" align="center">  ﻿# SPRING SECURITY CONFIGURATION PROJECTS
+![image](https://github.com/user-attachments/assets/758664f9-c244-4833-b2c6-f990cb947545)  ﻿# SPRING SECURITY CONFIGURATION PROJECTS
 
 ## Overview
 
