@@ -15,7 +15,7 @@ public class AuthConfig {
     public UserDetailsService userDetailsService() {
         var user = User
                 .builder()
-                .username("david")
+                .username("dsd")
                 .password("test123")
                 .authorities("read")
                 .build();
