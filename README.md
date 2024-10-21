@@ -1,4 +1,4 @@
-﻿# SPRING SECURITY CONFIGURATION PROJECTS
+<img src="[assets/icons/book.png](https://velog.velcdn.com/images/letsdev/post/44b40f1f-4d13-46ea-8ca7-e98541c13a9a/image.png)" width="20" height="20" align="center">  ﻿# SPRING SECURITY CONFIGURATION PROJECTS
 
 ## Overview
 
