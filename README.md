@@ -1,5 +1,5 @@
 <h1 style="color: springgreen; font-size: 27px;">
-  <img src="assets/icons/ss.png" width="22" height="22"> SPRING SECURITY PROJECTS
+  <img src="assets/icons/ss.png" width="24" height="24"> SPRING SECURITY PROJECTS
 </h1>
 
 <h1 style="font-size: 30px;">
