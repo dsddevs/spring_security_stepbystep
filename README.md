@@ -1,12 +1,12 @@
 [//]: # (# <img src="assets/icons/ss.png" width="42" height="42" align="center"> SPRING SECURITY CONFIGURATION PROJECTS )
 
 <h1 style="color: #55c53c; font-size: 35px;">
-  <img src="assets/icons/ss.png" width="42" height="42" style="vertical-align: middle; margin-right: 0px">
+  <img src="assets/icons/ss.png" width="42" height="42" style="vertical-align: middle; margin-top: 5px">
   SPRING SECURITY PROJECTS
 </h1>
 
 <h1 style="color: #d7cecc; font-size: 30px; font-family: Ebrima">
-  <img src="assets/icons/logo.png" width="30" height="30" style="vertical-align: middle; margin-right: 0px; margin-bottom: 5px">
+  <img src="assets/icons/logo.png" width="30" height="30" style="vertical-align: middle; margin-right: 0px;">
   Overview
 </h1>
 
@@ -14,14 +14,14 @@
 This project demonstrates various approaches to building Spring Security configurations and architectures, ranging from basic to advanced implementations. It serves as a comprehensive guide for understanding different security levels and architectural patterns in Spring Security.
 
 <h1 style="color: #d7cecc; font-size: 30px; font-family: Ebrima">
-  <img src="assets/icons/logo.png" width="30" height="30" style="vertical-align: middle; margin-right: 0px; margin-bottom: 5px">
+  <img src="assets/icons/logo.png" width="30" height="30" style="vertical-align: middle; margin-right: 0px;">
   Project Description
 </h1>
 
 The repository contains multiple examples of Spring Security implementations, progressively increasing in complexity. Each implementation showcases different security configurations, authentication methods, and architectural approaches.
 
 <h1 style="color: #d7cecc; font-size: 30px; font-family: Ebrima">
-  <img src="assets/icons/logo.png" width="30" height="30" style="vertical-align: middle; margin-right: 0px; margin-bottom: 5px">
+  <img src="assets/icons/logo.png" width="30" height="30" style="vertical-align: middle; margin-right: 0px;">
   Project Structure
 </h1>
 
