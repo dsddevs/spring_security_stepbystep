@@ -1,5 +1,3 @@
-[//]: # (# <img src="assets/icons/ss.png" width="42" height="42" align="center"> SPRING SECURITY CONFIGURATION PROJECTS )
-
 <h1 style="color: #55c53c; font-size: 35px;">
   <img src="assets/icons/ss.png" width="42" height="42" style="vertical-align: middle; margin-top: 5px">
   SPRING SECURITY PROJECTS
