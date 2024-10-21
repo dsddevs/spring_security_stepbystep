@@ -1,4 +1,4 @@
-#  <img src="assets/icons/ss.png" width="35" height="35" style="vertical-align: middle; align-content: center">  SPRING SECURITY PROJECTS
+#  <img src="assets/icons/ss.png" width="30" height="30" style="vertical-align: middle; align-content: center">  SPRING SECURITY PROJECTS
 
 <h1 style="color: #d7cecc; font-size: 30px; font-family: Ebrima">
   <img src="assets/icons/logo.png" width="30" height="30" style="vertical-align: middle; margin-right: 0px;">
