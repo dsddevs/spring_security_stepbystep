@@ -1,6 +1,5 @@
-<h1 style="color: forestgreen; font-size: 35px;">
-  <img src="assets/icons/ss.png" width="28" height="28">
-  SPRING SECURITY PROJECTS
+<h1 style="color: springgreen; font-size: 27px;">
+  <img src="assets/icons/ss.png" width="22" height="22"> SPRING SECURITY PROJECTS
 </h1>
 
 <h1 style="font-size: 30px;">
