@@ -9,5 +9,5 @@
   Project Structure
 </h1>
 
-![2](https://github.com/user-attachments/assets/7fb0bd1f-7808-4d94-afd6-e05001476491)
+![2](https://github.com/user-attachments/assets/e736c15a-f24c-4ca5-a3ab-fe1fcdf4e775)
 
